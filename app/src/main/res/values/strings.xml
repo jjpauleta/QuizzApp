@@ -1,0 +1,166 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Quizz App</string>
+
+    <!-- Text to welcome the user and explain the purpose of the application [CHAR LIMIT=none] -->
+    <string name="welcome">Welcome to the Quiz application where you will be facing questions about web marketing.
+    \n\nIn some questions you will have to write the exact answer, in others you can choose the right answer among multiple choices and
+        finally in some you have to pick several answers.</string>
+
+    <!--Header text for the name of the user [CHAR Limit =20] -->
+    <string name="write_name">Write your name below:</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name">Name</string>
+
+    <!-- Text which marks the beginning of the quiz [CHAR LIMIT=none] -->
+    <string name="start">Let\'s start !</string>
+
+    <!-- Title of the question 1 [CHAR LIMIT=none] -->
+    <string name="question_1">Question 1: Write the meaning of the acronym SEO (No caps):</string>
+
+    <!--Hint text display in the empty field for the answer of the question 1 [CHAR LIMIT=30] -->
+    <string name="answer_1">Write your answer.</string>
+
+    <!-- Title of the question 2 [CHAR LIMIT=none] -->
+    <string name="question_2">Question 2: Which lever allows you to expose again an internet user to an ad if he already came once on your website ?</string>
+
+    <!--Text for the first choice of the answers of the question 2 [CHAR LIMIT=30] -->
+    <string name="answer_2_1">Targeting</string>
+
+    <!--Text for the second choice of the answers of the question 2 [CHAR LIMIT=30] -->
+    <string name="answer_2_2">Keywording</string>
+
+    <!--Text for the third choice of the answers of the question 2 [CHAR LIMIT=30] -->
+    <string name="answer_2_3">Retargeting</string>
+
+    <!-- Title of the question 3 [CHAR LIMIT=none] -->
+    <string name="question_3">Question 3: Check the answer(s) indicating a compensation model in webmarketing:</string>
+
+    <!--Text for the first choice of the answers of the question 3 [CHAR LIMIT=30] -->
+    <string name="answer_3_1">CPA</string>
+
+    <!--Text for the second choice of the answers of the question 3 [CHAR LIMIT=30] -->
+    <string name="answer_3_2">CPN</string>
+
+    <!--Text for the third choice of the answers of the question 3 [CHAR LIMIT=30] -->
+    <string name="answer_3_3">CPL</string>
+
+    <!--Text for the fourth choice of the answers of the question 3 [CHAR LIMIT=30] -->
+    <string name="answer_3_4">PPT</string>
+
+    <!--Text for the fifth choice of the answers of the question 3 [CHAR LIMIT=30] -->
+    <string name="answer_3_5">PPS</string>
+
+    <!-- Title of the question 4 [CHAR LIMIT=none] -->
+    <string name="question_4">Question 4: What is the name of the small text file kept by a website to identify a user? </string>
+
+    <!--Text for the first choice of the answers of the question 4 [CHAR LIMIT=30] -->
+    <string name="answer_4_1">cookie</string>
+
+    <!--Text for the second choice of the answers of the question 4 [CHAR LIMIT=30] -->
+    <string name="answer_4_2">cake</string>
+
+    <!-- Title of the question 5 [CHAR LIMIT=none] -->
+    <string name="question_5">Question 5: Among these proposals, tick the different platforms of affiliate marketing: </string>
+
+    <!--Text for the first choice of the answers of the question 5 [CHAR LIMIT=30] -->
+    <string name="answer_5_1">Zanox</string>
+
+    <!--Text for the second choice of the answers of the question 5 [CHAR LIMIT=30] -->
+    <string name="answer_5_2">Criteo</string>
+
+    <!--Text for the third choice of the answers of the question 5 [CHAR LIMIT=30] -->
+    <string name="answer_5_3">Netaffiliation</string>
+
+    <!--Text for the fourth choice of the answers of the question 5 [CHAR LIMIT=30] -->
+    <string name="answer_5_4">Bing</string>
+
+    <!-- Title of the question 6 [CHAR LIMIT=none] -->
+    <string name="question_6">Question 6: Write the meaning of the acronym ROI (No caps):</string>
+
+    <!--Hint text display in the empty field for the answer of the question 1 [CHAR LIMIT=30] -->
+    <string name="answer_6">Write your answer.</string>
+
+    <!-- Title of the question 7 [CHAR LIMIT=none] -->
+    <string name="question_7">Question 7: Among the following choices, which indicator makes it possible to know what an e-retailer pays on average to obtain a customer:</string>
+
+    <!--Text for the first choice of the answers of the question 7 [CHAR LIMIT=30] -->
+    <string name="answer_7_1">average basket</string>
+
+    <!--Text for the second choice of the answers of the question 7 [CHAR LIMIT=30] -->
+    <string name="answer_7_2">customer acquisition cost </string>
+
+    <!-- Title of the question 8 [CHAR LIMIT=none] -->
+    <string name="question_8">Question 8: What is the name of Google\'s web analytics certification?</string>
+
+    <!--Text for the first choice of the answers of the question 8 [CHAR LIMIT=30] -->
+    <string name="answer_8_1">Google Adwords</string>
+
+    <!--Text for the second choice of the answers of the question 8 [CHAR LIMIT=30] -->
+    <string name="answer_8_2">Google Analytics</string>
+
+    <!-- Title of the question 9 [CHAR LIMIT=none] -->
+    <string name="question_9">Question 9: How do you call a website that fully adapts to mobile?</string>
+
+    <!--Text for the first choice of the answers of the question 9 [CHAR LIMIT=30] -->
+    <string name="answer_9_1">Smart</string>
+
+    <!--Text for the second choice of the answers of the question 9 [CHAR LIMIT=30] -->
+    <string name="answer_9_2">UX</string>
+
+    <!--Text for the second choice of the answers of the question 9 [CHAR LIMIT=30] -->
+    <string name="answer_9_3">Responsive</string>
+
+    <!-- Title of the question 10 [CHAR LIMIT=none] -->
+    <string name="question_10">Question 10: Among these choices, which levers can we work with through affiliate marketing ?</string>
+
+    <!--Text for the first choice of the answers of the question 10 [CHAR LIMIT=30] -->
+    <string name="answer_10_1">keywording</string>
+
+    <!--Text for the second choice of the answers of the question 10 [CHAR LIMIT=30] -->
+    <string name="answer_10_2">Retargeting</string>
+
+    <!--Text for the third choice of the answers of the question 10 [CHAR LIMIT=30] -->
+    <string name="answer_10_3">Text links</string>
+
+    <!--Text for the fourth choice of the answers of the question 10 [CHAR LIMIT=30] -->
+    <string name="answer_10_4">Cashback</string>
+
+    <!--Text for the fifth choice of the answers of the question 10 [CHAR LIMIT=30] -->
+    <string name="answer_10_5">influencers</string>
+
+    <!--Text for the sixth choice of the answers of the question 10 [CHAR LIMIT=30] -->
+    <string name="answer_10_6">Voucher websites</string>
+
+    <!--Order button [CHAR Limit =20] -->
+    <string name="submit_button">Submit</string>
+
+
+    <!--JAVA file -->
+
+
+    <!--Toast message for the score 10. It will be shown in the format of: "Thank you Julien" Your score is 10 where Julien is the
+    user's name and 10 the user's score. [CHAR LIMIT=NONE] -->
+    <string name="best_score">Thank you <xliff:g example="Julien" id="name">%s</xliff:g>"\n"Your score is 10 "\n"Congratulations ! </string>
+
+    <!--Toast message for the score between 7 and 9. It will be shown in the format of: "Thank you Julien" Your score is 8 where Julien is the
+   user's name and 0 the user's score. [CHAR LIMIT=NONE] -->
+    <string name="quite_good_score">Thank you <xliff:g example="Julien" id="name">%s</xliff:g> "\n"Your score is <xliff:g example="8" id="score">%d</xliff:g> "\n"You almost made it !</string>
+
+    <!--Toast message for the score between 4 and 6. It will be shown in the format of: "Thank you Julien" Your score is 2 where Julien is the
+   user's name and 0 the user's score. [CHAR LIMIT=NONE] -->
+    <string name="medium_score">Thank you <xliff:g example="Julien" id="name">%s</xliff:g> "\n"Your score is <xliff:g example="6" id="score">%d</xliff:g> "\n"An extra effort to reach the top !</string>
+
+    <!--Toast message for the score between 1 and 3. It will be shown in the format of: "Thank you Julien" Your score is 2 where Julien is the
+    user's name and 0 the user's score. [CHAR LIMIT=NONE] -->
+    <string name="quite_bad_score">Thank you <xliff:g example="Julien" id="name">%s</xliff:g> "\n"Your score is <xliff:g example="3" id="score">%d</xliff:g> "\n"Don\'t give up !</string>
+
+    <!--Toast message for the score 0. It will be shown in the format of: "Thank you Julien" Your score is 0 where Julien is the
+    user's name and 0 the user's score. [CHAR LIMIT=NONE] -->
+    <string name="worst_score">Thank you <xliff:g example="Julien" id="name">%s</xliff:g> "\n"Your score is 0 "\n"Try again !</string>
+
+
+</resources>
